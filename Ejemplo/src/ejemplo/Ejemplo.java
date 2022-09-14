@@ -14,7 +14,7 @@ public class Ejemplo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Aqui puse un mensaje sin que mi compañero traiga el proyecto");
     }
     
 }
